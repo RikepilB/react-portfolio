@@ -41,7 +41,16 @@
 ---
 
 ## Burn-up Chart (Velocity)  
-![Burn-up Jun 9 – 13](/mnt/data/burnUpFriday_week5.png)  
+
+![image](https://github.com/user-attachments/assets/b1ba92a9-5804-4e44-89d5-1b5d0c3f91a9)
+
+
+## 4. Burn-up Chart (Overall Progress)
+![burnUpFriday_week5](https://github.com/user-attachments/assets/58bf1325-1ab2-41f0-a4ba-ea8b362f5070)
+
+
+---
+
 
 > **Open:** green, **Completed:** purple, **Duplicates:** grey
 
@@ -89,6 +98,4 @@
 - **Auth (manual via Postman):** JWT issuance, refresh, and invalid-credential handling verified.  
 - **Exams endpoint security:** accessible only to authenticated users.  
 - **Automated tests:**  
-  ```bash
-  $ python manage.py test users   # 3 passed
-  $ python manage.py test exams   # 2 passed
+![image](https://github.com/user-attachments/assets/dfcd7c49-16b7-4438-bab9-ee5a4acc9c70)
